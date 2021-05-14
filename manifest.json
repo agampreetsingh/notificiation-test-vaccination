@@ -1,7 +1,7 @@
 {
     "name": "VaccinationSlotTracker notifications TEST",
     "short_name": "VaccinationSlotTrackerTEST",
-    "start_url": "https://github.com/agampreetsingh/notificiation-test-vaccination/index.html",
+    "start_url": "https://agampreetsingh.github.io/notificiation-test-vaccination/index.html",
     "display": "fullscreen",
     "description": "A tracker to check CoWin vaccination slots",
     "icons": [
@@ -42,7 +42,7 @@
         }
     ],
     "url": "https://github.com/agampreetsingh/notificiation-test-vaccination/",
-    "manifestUrl": "https://github.com/agampreetsingh/notificiation-test-vaccination/manifest.json",
+    "manifestUrl": "https://agampreetsingh.github.io/notificiation-test-vaccination/manifest.json",
     "lang": "English",
     "background_color": "#FFFFFF",
     "screenshots": []
